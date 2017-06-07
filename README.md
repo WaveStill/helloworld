@@ -1,2 +1,2 @@
 # helloworld
-just first git
+just first Git
