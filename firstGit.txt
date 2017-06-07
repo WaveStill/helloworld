@@ -1,2 +1,2 @@
 hello GitHub
-hello my first Git progect / WaveStill
+hello my first Git Progect / WaveStill
